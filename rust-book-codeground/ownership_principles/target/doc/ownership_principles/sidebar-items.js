@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["calculate_length",""],["change",""],["main",""],["makes_copy",""],["mutable_references","The problem with normal references is that the called function cannot modify the referenced object because it does not own it. It is only borrowing it for the duration of the function execution"],["takes_ownership",""]]});
